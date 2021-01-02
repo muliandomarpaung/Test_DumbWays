@@ -1,0 +1,1 @@
+5. Perbedaan antara Public Cloud dan Private Cloud yaitu Public Cloud mengacu kepada model cloud computing yang dapat diakses oleh siapapun atau secara public. Private Cloud mengacu terhadap model cloud computing yang dapat diakses oleh suatu organisasi atau kelompok tertentu.

@@ -1,0 +1,1 @@
+1. DevOps meruapakan salah satu peranan penting didalam pengembangan sebuah teknologi, dimana DevOps menjadi penengah atau komunikasi antara developer dengan operational, sehingga produk yang sedang dikembangkan dapat diselesaikan secepat mungkin. DevOps sangat penting didalam suatu perusahaan dikarenakan dapat membantu dari proses development sampai dapat digunakan oleh user.

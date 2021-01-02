@@ -1,0 +1,1 @@
+4. CI/CD (Continues Integration/ Continues Deployment) sangat diperlukan didalam DevOps dikarenakan dapat mendorong proses pengembangan suatu aplikasi atau software agar lebih mudah dalam mengapai customer.

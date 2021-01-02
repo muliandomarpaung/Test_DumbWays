@@ -1,0 +1,1 @@
+3. Untuk mencari command linux sebelum nya, dapat menggunakan command 'history'.
